@@ -77,12 +77,15 @@ python train.py
 ```
 ## Result
 * Config 1
+  
   <img width="452" alt="截圖 2024-06-23 凌晨2 40 14" src="https://github.com/mvclab-ntust-course/course7-llm-lannyyuan-go/assets/122262894/01523f67-a86e-44cf-921d-4bf28e79d1f7">
 
 * Config 2
+  
   <img width="550" alt="截圖 2024-06-23 凌晨2 41 37" src="https://github.com/mvclab-ntust-course/course7-llm-lannyyuan-go/assets/122262894/0ca3e4b3-b695-4591-8446-822e998712fd">
 
 * Config 3
+  
   <img width="547" alt="截圖 2024-06-23 凌晨2 42 55" src="https://github.com/mvclab-ntust-course/course7-llm-lannyyuan-go/assets/122262894/daf5fe91-1508-4b71-9831-bda77fbbf3ee">
 
 # Latex version
